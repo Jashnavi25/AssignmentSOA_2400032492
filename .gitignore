@@ -1,0 +1,18 @@
+# Eclipse workspace files
+.metadata/
+.settings/
+.recommenders/
+
+# Java / Maven
+target/
+.classpath
+.project
+
+# Node / React
+node_modules/
+dist/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
